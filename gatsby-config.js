@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Save the Whales`,
+    title: `ORCA WHALES`,
     description: `WHALES DOUGH --This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@brightrain`,
   },
