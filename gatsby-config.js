@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `ORCA WHALES`,
-    description: `WHALES DOUGH --This barebones starter ships with the main Gatsby configuration files you might need.`,
+    description: `This makes my hair stand straight up!.`,
     author: `@brightrain`,
   },
   plugins: [
